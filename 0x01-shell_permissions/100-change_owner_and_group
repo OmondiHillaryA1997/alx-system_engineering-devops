@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -h vincent : staff
+sudo find  . -exe chown vincent:staff{}+
