@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l [directory]
+ls -lt [directory] | head -n 10
